@@ -1,2 +1,2 @@
-# Java2-OBUSAN
+# Java2-Activities
 Student Project
