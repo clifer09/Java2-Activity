@@ -8,7 +8,7 @@ public class MidtermAct07
 		terminal.enterPrivateMode();
 		int x = 0, y = 0;
 
-		for (; y < 2; y++) {
+		for (; y < 20; y++) {
 			terminal.setCursorPosition(x,y);
 			terminal.putCharacter('X');
 
